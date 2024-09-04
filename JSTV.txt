@@ -15,7 +15,7 @@ CCTV-1 综合,http://ott.mobaibox.com/PLTV/3/224/3221228213/index.m3u8$name=8M10
 CCTV-1 综合,http://ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8$name=8M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV1.png$tvg=CCTV1
 CCTV-1 综合,http://ott.mobaibox.com/PLTV/3/224/3221228149/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV1.png$tvg=CCTV1
 CCTV-1 综合,http://ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV1.png$tvg=CCTV1
-CCTV-1 综合,http://?id=cctv1.m3u8$name＝P高码$logo=https://live.fanmingming.com/tv/CCTV1.png$tvg=CCTV1$js＝https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js
+CCTV-1 综合,http://?id=cctv1.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV1.png$tvg=CCTV1
 CCTV-2 财经,http://ott.mobaibox.com/PLTV/3/224/3221228094/index.m3u8$name=12M1080$logo=https://live.fanmingming.com/tv/CCTV2.png$tvg=CCTV2
 CCTV-2 财经,http://ott.mobaibox.com/PLTV/3/224/3221226993/index.m3u8$name=3M1080$logo=https://live.fanmingming.com/tv/CCTV2.png$tvg=CCTV2
 CCTV-2 财经,http://ott.mobaibox.com/PLTV/3/224/3221227207/index.m3u8$name=4M1080$logo=https://live.fanmingming.com/tv/CCTV2.png$tvg=CCTV2
@@ -25,6 +25,7 @@ CCTV-2 财经,http://ott.mobaibox.com/PLTV/3/224/3221227696/index.m3u8$name=8M10
 CCTV-2 财经,http://ott.mobaibox.com/PLTV/3/224/3221228118/index.m3u8$name=8M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV2.png$tvg=CCTV2
 CCTV-2 财经,http://ott.mobaibox.com/PLTV/3/224/3221228300/index.m3u8$name=8M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV2.png$tvg=CCTV2
 CCTV-2 财经,http://ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV2.png$tvg=CCTV2
+CCTV-2 财经,http://?id=cctv2.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV2.png$tvg=CCTV2
 CCTV-3 综艺,http://ott.mobaibox.com/PLTV/3/224/3221225588/index.m3u8$name=3.5M1080$logo=https://live.fanmingming.com/tv/CCTV3.png$tvg=CCTV3
 CCTV-3 综艺,http://ott.mobaibox.com/PLTV/3/224/3221227295/index.m3u8$name=3M1080$logo=https://live.fanmingming.com/tv/CCTV3.png$tvg=CCTV3
 CCTV-3 综艺,http://ott.mobaibox.com/PLTV/3/224/3221228237/index.m3u8$name=4.5M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV3.png$tvg=CCTV3
@@ -35,6 +36,7 @@ CCTV-3 综艺,http://ott.mobaibox.com/PLTV/3/224/3221228188/index.m3u8$name=8M10
 CCTV-3 综艺,http://ott.mobaibox.com/PLTV/3/224/3221228392/index.m3u8$name=8M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV3.png$tvg=CCTV3
 CCTV-3 综艺,http://ott.mobaibox.com/PLTV/3/224/3221227546/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV3.png$tvg=CCTV3
 CCTV-3 综艺,http://ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV3.png$tvg=CCTV3
+CCTV-3 综艺,http://?id=cctv3.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV3.png$tvg=CCTV3
 CCTV-4 中文国际,http://ott.mobaibox.com/PLTV/3/224/3221227378/index.m3u8$name=3M1080$logo=https://live.fanmingming.com/tv/CCTV4.png$tvg=CCTV4
 CCTV-4 中文国际,http://ott.mobaibox.com/PLTV/3/224/3221225534/index.m3u8$name=4M1080$logo=https://live.fanmingming.com/tv/CCTV4.png$tvg=CCTV4
 CCTV-4 中文国际,http://ott.mobaibox.com/PLTV/3/224/3221227658/index.m3u8$name=5.5M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV4.png$tvg=CCTV4
@@ -44,6 +46,7 @@ CCTV-4 中文国际,http://ott.mobaibox.com/PLTV/3/224/3221227489/index.m3u8$nam
 CCTV-4 中文国际,http://ott.mobaibox.com/PLTV/3/224/3221228307/index.m3u8$name=8M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV4.png$tvg=CCTV4
 CCTV-4 中文国际,http://ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV4.png$tvg=CCTV4
 CCTV-4 中文国际,http://ott.mobaibox.com/PLTV/3/224/3221228091/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV4.png$tvg=CCTV4
+CCTV-4 中文国际,http://?id=cctv4.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV4.png$tvg=CCTV4
 CCTV-5 体育,http://ott.mobaibox.com/PLTV/3/224/3221227298/index.m3u8$name=3M1080$logo=https://live.fanmingming.com/tv/CCTV5.png$tvg=CCTV5
 CCTV-5 体育,http://ott.mobaibox.com/PLTV/3/224/3221227166/index.m3u8$name=4M1080$logo=https://live.fanmingming.com/tv/CCTV5.png$tvg=CCTV5
 CCTV-5 体育,http://ott.mobaibox.com/PLTV/3/224/3221227640/index.m3u8$name=4M1080$logo=https://live.fanmingming.com/tv/CCTV5.png$tvg=CCTV5
@@ -56,6 +59,7 @@ CCTV-5 体育,http://ott.mobaibox.com/PLTV/3/224/3221228395/index.m3u8$name=8M10
 CCTV-5 体育,http://ott.mobaibox.com/PLTV/3/224/3221227537/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV5.png$tvg=CCTV5
 CCTV-5 体育,http://ott.mobaibox.com/PLTV/3/224/3221227617/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV5.png$tvg=CCTV5
 CCTV-5 体育,http://ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV5.png$tvg=CCTV5
+CCTV-5 体育,http://?id=cctv5.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV5.png$tvg=CCTV5
 CCTV-5+ 体育赛事,http://ott.mobaibox.com/PLTV/3/224/3221227381/index.m3u8$name=3M1080$logo=https://live.fanmingming.com/tv/CCTV5+.png$tvg=CCTV5+
 CCTV-5+ 体育赛事,http://ott.mobaibox.com/PLTV/3/224/3221228492/index.m3u8$name=3M1080$logo=https://live.fanmingming.com/tv/CCTV5+.png$tvg=CCTV5+
 CCTV-5+ 体育赛事,http://ott.mobaibox.com/PLTV/3/224/3221225604/index.m3u8$name=4M1080$logo=https://live.fanmingming.com/tv/CCTV5+.png$tvg=CCTV5+
@@ -69,6 +73,7 @@ CCTV-5+ 体育赛事,http://ott.mobaibox.com/PLTV/3/224/3221227573/index.m3u8$na
 CCTV-5+ 体育赛事,http://ott.mobaibox.com/PLTV/3/224/3221228277/index.m3u8$name=8M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV5+.png$tvg=CCTV5+
 CCTV-5+ 体育赛事,http://ott.mobaibox.com/PLTV/3/224/3221227502/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV5+.png$tvg=CCTV5+
 CCTV-5+ 体育赛事,http://ott.mobaibox.com/PLTV/3/224/3221228176/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV5+.png$tvg=CCTV5+
+CCTV-5+ 体育赛事,http://?id=cctv5p.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV5+.png$tvg=CCTV5+
 CCTV-6 电影,http://ott.mobaibox.com/PLTV/3/224/3221227209/index.m3u8$name=3.5M1080$logo=https://live.fanmingming.com/tv/CCTV6.png$tvg=CCTV6
 CCTV-6 电影,http://ott.mobaibox.com/PLTV/3/224/3221227301/index.m3u8$name=3M1080$logo=https://live.fanmingming.com/tv/CCTV6.png$tvg=CCTV6
 CCTV-6 电影,http://ott.mobaibox.com/PLTV/3/224/3221228196/index.m3u8$name=4.5M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV6.png$tvg=CCTV6
@@ -80,10 +85,12 @@ CCTV-6 电影,http://ott.mobaibox.com/PLTV/3/224/3221227430/index.m3u8$name=8M10
 CCTV-6 电影,http://ott.mobaibox.com/PLTV/3/224/3221228280/index.m3u8$name=8M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV6.png$tvg=CCTV6
 CCTV-6 电影,http://ott.mobaibox.com/PLTV/3/224/3221227505/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV6.png$tvg=CCTV6
 CCTV-6 电影,http://ott.mobaibox.com/PLTV/3/224/3221228123/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV6.png$tvg=CCTV6
+CCTV-6 电影,http://?id=cctv6.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV6.png$tvg=CCTV6
 CCTV-7 国防军事,http://ott.mobaibox.com/PLTV/3/224/3221227314/index.m3u8$name=3M1080$logo=https://live.fanmingming.com/tv/CCTV7.png$tvg=CCTV7
 CCTV-7 国防军事,http://ott.mobaibox.com/PLTV/3/224/3221225546/index.m3u8$name=4M1080$logo=https://live.fanmingming.com/tv/CCTV7.png$tvg=CCTV7
 CCTV-7 国防军事,http://ott.mobaibox.com/PLTV/3/224/3221227642/index.m3u8$name=5.5M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV7.png$tvg=CCTV7
 CCTV-7 国防军事,http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8$name=8M1080$logo=https://live.fanmingming.com/tv/CCTV7.png$tvg=CCTV7
+CCTV-7 国防军事,http://?id=cctv7.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV7.png$tvg=CCTV7
 CCTV-8 电视剧,http://ott.mobaibox.com/PLTV/3/224/3221227304/index.m3u8$name=3M1080$logo=https://live.fanmingming.com/tv/CCTV8.png$tvg=CCTV8
 CCTV-8 电视剧,http://ott.mobaibox.com/PLTV/3/224/3221227205/index.m3u8$name=4M1080$logo=https://live.fanmingming.com/tv/CCTV8.png$tvg=CCTV8
 CCTV-8 电视剧,http://ott.mobaibox.com/PLTV/3/224/3221227667/index.m3u8$name=5.5M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV8.png$tvg=CCTV8
@@ -94,44 +101,60 @@ CCTV-8 电视剧,http://ott.mobaibox.com/PLTV/3/224/3221227629/index.m3u8$name=8
 CCTV-8 电视剧,http://ott.mobaibox.com/PLTV/3/224/3221228398/index.m3u8$name=8M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV8.png$tvg=CCTV8
 CCTV-8 电视剧,http://ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV8.png$tvg=CCTV8
 CCTV-8 电视剧,http://ott.mobaibox.com/PLTV/3/224/3221228194/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV8.png$tvg=CCTV8
+CCTV-8 电视剧,http://?id=cctv8.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV8.png$tvg=CCTV8
 CCTV-9 记录,http://ott.mobaibox.com/PLTV/3/224/3221225532/index.m3u8$name=4M1080$logo=https://live.fanmingming.com/tv/CCTV9.png$tvg=CCTV9
 CCTV-9 记录,http://ott.mobaibox.com/PLTV/3/224/3221227659/index.m3u8$name=5.5M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV9.png$tvg=CCTV9
 CCTV-9 记录,http://ott.mobaibox.com/PLTV/3/224/3221227704/index.m3u8$name=5M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV9.png$tvg=CCTV9
 CCTV-9 记录,http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8$name=8M1080$logo=https://live.fanmingming.com/tv/CCTV9.png$tvg=CCTV9
+CCTV-9 纪录,http://?id=cctv9.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV9.png$tvg=CCTV9
 CCTV-10 科教,http://ott.mobaibox.com/PLTV/3/224/3221227317/index.m3u8$name=3M1080$logo=https://live.fanmingming.com/tv/CCTV10.png$tvg=CCTV10
 CCTV-10 科教,http://ott.mobaibox.com/PLTV/3/224/3221225550/index.m3u8$name=4M1080$logo=https://live.fanmingming.com/tv/CCTV10.png$tvg=CCTV10
 CCTV-10 科教,http://ott.mobaibox.com/PLTV/3/224/3221227717/index.m3u8$name=5.5M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV10.png$tvg=CCTV10
 CCTV-10 科教,http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8$name=8M1080$logo=https://live.fanmingming.com/tv/CCTV10.png$tvg=CCTV10
+CCTV-10 科教,http://?id=cctv10.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV10.png$tvg=CCTV10
 CCTV-11 戏曲,http://ott.mobaibox.com/PLTV/3/224/3221227524/index.m3u8$name=2.5M1080$logo=https://live.fanmingming.com/tv/CCTV11.png$tvg=CCTV11
 CCTV-11 戏曲,http://ott.mobaibox.com/PLTV/3/224/3221227384/index.m3u8$name=4M1080$logo=https://live.fanmingming.com/tv/CCTV11.png$tvg=CCTV11
 CCTV-11 戏曲,http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8$name=5.5M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV11.png$tvg=CCTV11
+CCTV-11 戏曲,http://?id=cctv11.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV11.png$tvg=CCTV11
 CCTV-12 社会与法,http://ott.mobaibox.com/PLTV/3/224/3221225556/index.m3u8$name=4M1080$logo=https://live.fanmingming.com/tv/CCTV12.png$tvg=CCTV12
 CCTV-12 社会与法,http://ott.mobaibox.com/PLTV/3/224/3221227655/index.m3u8$name=5.5M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV12.png$tvg=CCTV12
 CCTV-12 社会与法,http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8$name=8M1080$logo=https://live.fanmingming.com/tv/CCTV12.png$tvg=CCTV12
+CCTV-12 社会与法,http://?id=cctv12.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV12.png$tvg=CCTV12
 CCTV-13 新闻,http://ott.mobaibox.com/PLTV/3/224/3221225560/index.m3u8$name=4M1080$logo=https://live.fanmingming.com/tv/CCTV13.png$tvg=CCTV13
 CCTV-13 新闻,http://ott.mobaibox.com/PLTV/3/224/3221228121/index.m3u8$name=4M1080$logo=https://live.fanmingming.com/tv/CCTV13.png$tvg=CCTV13
 CCTV-13 新闻,http://ott.mobaibox.com/PLTV/3/224/3221227387/index.m3u8$name=8M1080$logo=https://live.fanmingming.com/tv/CCTV13.png$tvg=CCTV13
 CCTV-13 新闻,http://ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8$name=8M1080$logo=https://live.fanmingming.com/tv/CCTV13.png$tvg=CCTV13
 CCTV-13 新闻,http://ott.mobaibox.com/PLTV/3/224/3221228324/index.m3u8$name=8M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV13.png$tvg=CCTV13
+CCTV-13 新闻,http://?id=cctv13.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV13.png$tvg=CCTV13
 CCTV-14 少儿,http://ott.mobaibox.com/PLTV/3/224/3221227201/index.m3u8$name=4M1080$logo=https://live.fanmingming.com/tv/CCTV14.png$tvg=CCTV14
 CCTV-14 少儿,http://ott.mobaibox.com/PLTV/3/224/3221227656/index.m3u8$name=5.5M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV14.png$tvg=CCTV14
 CCTV-14 少儿,http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8$name=8M1080$logo=https://live.fanmingming.com/tv/CCTV14.png$tvg=CCTV14
+CCTV-14 少儿,http://?id=cctv14.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV14.png$tvg=CCTV14
 CCTV-15 音乐,http://ott.mobaibox.com/PLTV/3/224/3221227538/index.m3u8$name=3.5M1080$logo=https://live.fanmingming.com/tv/CCTV15.png$tvg=CCTV15
 CCTV-15 音乐,http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8$name=5.5M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV15.png$tvg=CCTV15
+CCTV-15 音乐,http://?id=cctv15.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV15.png$tvg=CCTV15
 CCTV-16 奥林匹克,http://ott.mobaibox.com/PLTV/3/224/3221228320/index.m3u8$name=7M1080$logo=https://live.fanmingming.com/tv/CCTV16.png$tvg=CCTV16
 CCTV-16 奥林匹克,http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8$name=8M1080$logo=https://live.fanmingming.com/tv/CCTV16.png$tvg=CCTV16
 CCTV-16 奥林匹克,http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8$name=8M1080$logo=https://live.fanmingming.com/tv/CCTV16.png$tvg=CCTV16
+CCTV-16 奥林匹克,http://?id=cctv16.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV16.png$tvg=CCTV16
 CCTV-17 农业农村,http://ott.mobaibox.com/PLTV/3/224/3221227578/index.m3u8$name=2.5M1080$logo=https://live.fanmingming.com/tv/CCTV17.png$tvg=CCTV17
 CCTV-17 农业农村,http://ott.mobaibox.com/PLTV/3/224/3221227589/index.m3u8$name=4M1080$logo=https://live.fanmingming.com/tv/CCTV17.png$tvg=CCTV17
 CCTV-17 农业农村,http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8$name=4M1080$logo=https://live.fanmingming.com/tv/CCTV17.png$tvg=CCTV17
 CCTV-17 农业农村,http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8$name=5.5M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV17.png$tvg=CCTV17
+CCTV-17 农业农村,http://?id=cctv17.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV17.png$tvg=CCTV17
 CCTV-16 奥林匹克 4K,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8$name=18M2160$logo=https://live.fanmingming.com/tv/CCTV16.png$tvg=CCTV16
 CCTV-16 奥林匹克 4K,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8$name=25M2160$logo=https://live.fanmingming.com/tv/CCTV16.png$tvg=CCTV16
+CCTV-16 奥林匹克 4K,http://?id=cctv4k16.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV16.png$tvg=CCTV16
+CCTV-16 奥林匹克 4K,http://?id=cctv4k1610m.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码10M$logo=https://live.fanmingming.com/tv/CCTV16.png$tvg=CCTV16
 CCTV-4K 超高清,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8$name=12M2160$logo=https://live.fanmingming.com/tv/CCTV16.png$tvg=CCTV16
 CCTV-4K 超高清,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8$name=16M2160$logo=https://live.fanmingming.com/tv/CCTV4K.png$tvg=CCTV4K
 CCTV-4K 超高清,http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8$name=16M2160$logo=https://live.fanmingming.com/tv/CCTV4K.png$tvg=CCTV4K
 CCTV-4K 超高清,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8$name=25M2160HDR$logo=https://live.fanmingming.com/tv/CCTV4K.png$tvg=CCTV4K
 CCTV-4K 超高清,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8$name=30M2160HDR$logo=https://live.fanmingming.com/tv/CCTV4K.png$tvg=CCTV4K
+CCTV-4K 超高清,http://?id=cctv4k.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV4K.png$tvg=CCTV4K
+CCTV-4K 超高清,http://?id=cctv4k10m.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码10M$logo=https://live.fanmingming.com/tv/CCTV4K.png$tvg=CCTV4K
+CCTV-8K 超高清,http://?id=cctv8k_36m.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码36M$logo=https://live.fanmingming.com/tv/CCTV8K.png$tvg=CCTV8K
+CCTV-8K 超高清,http://?id=cctv8k_120m.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码120M$logo=https://live.fanmingming.com/tv/CCTV8K.png$tvg=CCTV8K
 卫视频道,#genre#
 凤凰中文,http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$name=8M1080$logo=https://live.fanmingming.com/tv/凤凰卫视中文台.png$tvg=凤凰中文
 凤凰资讯,http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$name=8M1080$logo=https://live.fanmingming.com/tv/凤凰卫视资讯台.png$tvg=凤凰资讯
