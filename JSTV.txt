@@ -1,2 +1,2 @@
 央视频道,#genre#
-CCTV-1 综合,http://ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8$name=ipv4
+CCTV-1 综合,http://ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8$name=ipv4$logo=https://live.fanmingming.com/tv/CCTV1.png
