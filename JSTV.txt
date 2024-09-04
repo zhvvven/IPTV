@@ -15,7 +15,7 @@ CCTV-1 综合,http://ott.mobaibox.com/PLTV/3/224/3221228213/index.m3u8$name=8M10
 CCTV-1 综合,http://ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8$name=8M1080HEVC$logo=https://live.fanmingming.com/tv/CCTV1.png$tvg=CCTV1
 CCTV-1 综合,http://ott.mobaibox.com/PLTV/3/224/3221228149/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV1.png$tvg=CCTV1
 CCTV-1 综合,http://ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8$name=Max16M1080$logo=https://live.fanmingming.com/tv/CCTV1.png$tvg=CCTV1
-CCTV-1 综合,http://?id=cctv1.m3u8$name＝PRO$logo=https://live.fanmingming.com/tv/CCTV1.png$tvg=CCTV1$js＝ysptp
+CCTV-1 综合,http://?id=cctv1.m3u8$name＝P高码$logo=https://live.fanmingming.com/tv/CCTV1.png$tvg=CCTV1$js＝https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js
 CCTV-2 财经,http://ott.mobaibox.com/PLTV/3/224/3221228094/index.m3u8$name=12M1080$logo=https://live.fanmingming.com/tv/CCTV2.png$tvg=CCTV2
 CCTV-2 财经,http://ott.mobaibox.com/PLTV/3/224/3221226993/index.m3u8$name=3M1080$logo=https://live.fanmingming.com/tv/CCTV2.png$tvg=CCTV2
 CCTV-2 财经,http://ott.mobaibox.com/PLTV/3/224/3221227207/index.m3u8$name=4M1080$logo=https://live.fanmingming.com/tv/CCTV2.png$tvg=CCTV2
