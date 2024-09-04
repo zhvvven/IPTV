@@ -1,2 +1,2 @@
 央视频道,#genre#
-CCTV-1 综合,http://ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8/$Name=中国移动
+CCTV-1 综合,http://ott.mobaibox.com/PLTV/3/224/3221227739/index.m3u8/$Name=中国移动
