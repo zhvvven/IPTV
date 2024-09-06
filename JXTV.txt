@@ -19,7 +19,6 @@ CCTV-15 音乐,http://39.135.140.104:6610/PLTV/88888888/224/3221225641/2/index.m
 CCTV-16 奥林匹克,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV16.png$tvg=CCTV16
 CCTV-17 农业农村,http://39.135.140.104:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV17.png$tvg=CCTV17
 
-央视频道,#genre#
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV1.png$tvg=CCTV1
 CCTV-2 财经,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV2.png$tvg=CCTV2
 CCTV-3 综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV3.png$tvg=CCTV3
