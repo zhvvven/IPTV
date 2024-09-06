@@ -1,65 +1,44 @@
 Epg=1
 央视频道,#genre#
 CCTV-1 综合,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV1.png$tvg=CCTV1
-CCTV-1 综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV1.png$tvg=CCTV1
-CCTV-1 综合,http://?id=cctv1.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV1.png$tvg=CCTV1
 CCTV-2 财经,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225500/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV2.png$tvg=CCTV2
-CCTV-2 财经,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV2.png$tvg=CCTV2
-CCTV-2 财经,http://?id=cctv2.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV2.png$tvg=CCTV2
 CCTV-3 综艺,http://39.135.140.104:6610/PLTV/88888888/224/3221225634/2/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV3.png$tvg=CCTV3
-CCTV-3 综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV3.png$tvg=CCTV3
-CCTV-3 综艺,http://?id=cctv3.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV3.png$tvg=CCTV3
 CCTV-4 中文国际,http://39.135.140.104:6610/PLTV/88888888/224/3221225621/2/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV4.png$tvg=CCTV4
-CCTV-4 中文国际,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV4.png$tvg=CCTV4
-CCTV-4 中文国际,http://?id=cctv4.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV4.png$tvg=CCTV4
 CCTV-5 体育,http://39.135.140.104:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV5.png$tvg=CCTV5
-CCTV-5 体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV5.png$tvg=CCTV5
-CCTV-5 体育,http://?id=cctv5.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV5.png$tvg=CCTV5
 CCTV-5+ 体育赛事,http://39.135.140.104:6610/PLTV/88888888/224/3221225706/2/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV5+.png$tvg=CCTV5+
-CCTV-5+ 体育赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV5+.png$tvg=CCTV5+
-CCTV-5+ 体育赛事,http://?id=cctv5p.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV5+.png$tvg=CCTV5+
 CCTV-6 电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226255/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV6.png$tvg=CCTV6
-CCTV-6 电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV6.png$tvg=CCTV6
-CCTV-6 电影,http://?id=cctv6.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV6.png$tvg=CCTV6
 CCTV-7 国防军事,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225499/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV7.png$tvg=CCTV7
-CCTV-7 国防军事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV7.png$tvg=CCTV7
-CCTV-7 国防军事,http://?id=cctv7.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV7.png$tvg=CCTV7
 CCTV-8 电视剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226258/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV8.png$tvg=CCTV8
-CCTV-8 电视剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV8.png$tvg=CCTV8
-CCTV-8 电视剧,http://?id=cctv8.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV8.png$tvg=CCTV8
 CCTV-9 纪录,http://39.135.140.104:6610/PLTV/88888888/224/3221225646/2/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV9.png$tvg=CCTV9
-CCTV-9 纪录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV9.png$tvg=CCTV9
-CCTV-9 纪录,http://?id=cctv9.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV9.png$tvg=CCTV9
 CCTV-10 科教,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV10.png$tvg=CCTV10
-CCTV-10 科教,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV10.png$tvg=CCTV10
-CCTV-10 科教,http://?id=cctv10.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV10.png$tvg=CCTV10
 CCTV-11 戏曲,http://39.135.140.104:6610/PLTV/88888888/224/3221225628/2/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV11.png$tvg=CCTV11
-CCTV-11 戏曲,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV11.png$tvg=CCTV11
-CCTV-11 戏曲,http://?id=cctv11.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV11.png$tvg=CCTV11
 CCTV-12 社会与法,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225495/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV12.png$tvg=CCTV12
-CCTV-12 社会与法,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV12.png$tvg=CCTV12
-CCTV-12 社会与法,http://?id=cctv12.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV12.png$tvg=CCTV12
 CCTV-13 新闻,http://39.135.140.104:6610/PLTV/88888888/224/3221225638/2/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV13.png$tvg=CCTV13
-CCTV-13 新闻,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV13.png$tvg=CCTV13
-CCTV-13 新闻,http://?id=cctv13.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV13.png$tvg=CCTV13
 CCTV-14 少儿,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV14.png$tvg=CCTV14
-CCTV-14 少儿,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV14.png$tvg=CCTV14
-CCTV-14 少儿,http://?id=cctv14.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV14.png$tvg=CCTV14
 CCTV-15 音乐,http://39.135.140.104:6610/PLTV/88888888/224/3221225641/2/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV15.png$tvg=CCTV15
-CCTV-15 音乐,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV15.png$tvg=CCTV15
-CCTV-15 音乐,http://?id=cctv15.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV15.png$tvg=CCTV15
 CCTV-16 奥林匹克,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV16.png$tvg=CCTV16
-CCTV-16 奥林匹克,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV16.png$tvg=CCTV16
-CCTV-16 奥林匹克,http://?id=cctv16.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV16.png$tvg=CCTV16
 CCTV-17 农业农村,http://39.135.140.104:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/CCTV17.png$tvg=CCTV17
+
+央视频道,#genre#
+CCTV-1 综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV1.png$tvg=CCTV1
+CCTV-2 财经,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV2.png$tvg=CCTV2
+CCTV-3 综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV3.png$tvg=CCTV3
+CCTV-4 中文国际,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV4.png$tvg=CCTV4
+CCTV-5 体育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV5.png$tvg=CCTV5
+CCTV-5+ 体育赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV5+.png$tvg=CCTV5+
+CCTV-6 电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV6.png$tvg=CCTV6
+CCTV-7 国防军事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV7.png$tvg=CCTV7
+CCTV-8 电视剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV8.png$tvg=CCTV8
+CCTV-9 纪录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV9.png$tvg=CCTV9
+CCTV-10 科教,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV10.png$tvg=CCTV10
+CCTV-11 戏曲,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV11.png$tvg=CCTV11
+CCTV-12 社会与法,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV12.png$tvg=CCTV12
+CCTV-13 新闻,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV13.png$tvg=CCTV13
+CCTV-14 少儿,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV14.png$tvg=CCTV14
+CCTV-15 音乐,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV15.png$tvg=CCTV15
+CCTV-16 奥林匹克,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV16.png$tvg=CCTV16
 CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/CCTV17.png$tvg=CCTV17
-CCTV-17 农业农村,http://?id=cctv17.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码$logo=https://live.fanmingming.com/tv/CCTV17.png$tvg=CCTV17
-CCTV-16 奥林匹克 4K,http://?id=cctv4k1610m.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码10M$logo=https://live.fanmingming.com/tv/CCTV16.png$tvg=CCTV16
-CCTV-16 奥林匹克 4K,http://?id=cctv4k16.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码35M$logo=https://live.fanmingming.com/tv/CCTV16.png$tvg=CCTV16
-CCTV-4K 超高清,http://?id=cctv4k10m.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码10M$logo=https://live.fanmingming.com/tv/CCTV4K.png$tvg=CCTV4K
-CCTV-4K 超高清,http://?id=cctv4k.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码35M$logo=https://live.fanmingming.com/tv/CCTV4K.png$tvg=CCTV4K
-CCTV-8K 超高清,http://?id=cctv8k_36m.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码36M$logo=https://live.fanmingming.com/tv/CCTV8K.png$tvg=CCTV8K
-CCTV-8K 超高清,http://?id=cctv8k_120m.m3u8$js=https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/ysptp.js$name=高码120M$logo=https://live.fanmingming.com/tv/CCTV8K.png$tvg=CCTV8K
+
 卫视频道,#genre#
 湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/湖南卫视.png$tvg=湖南卫视
 湖南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$name=IPV6$logo=https://live.fanmingming.com/tv/湖南卫视.png$tvg=湖南卫视
