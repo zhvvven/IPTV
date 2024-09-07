@@ -115,6 +115,8 @@ CCTV-17 农业农村,http://gslbserv.itv.cmvideo.cn/5000000008000023253/1.m3u8?c
 重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/重庆卫视.png$tvg=重庆卫视
 吉林卫视,http://39.135.140.104:6610/PLTV/88888888/224/3221225680/2/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/吉林卫视.png$tvg=吉林卫视
 黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/黑龙江卫视.png$tvg=黑龙江卫视
+甘肃卫视,http://39.135.140.104:6610/PLTV/88888888/224/3221225724/2/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/甘肃卫视.png$tvg=甘肃卫视
+云南卫视,http://39.135.140.104:6610/PLTV/88888888/224/3221225538/2/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://live.fanmingming.com/tv/云南卫视.png$tvg=云南卫视
 
 湖南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$name=IPV6
 浙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$name=IPV6
@@ -139,6 +141,8 @@ CCTV-17 农业农村,http://gslbserv.itv.cmvideo.cn/5000000008000023253/1.m3u8?c
 重庆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$name=IPV6
 吉林卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$name=IPV6
 黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$name=IPV6
+甘肃卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8$name=IPV6
+云南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8$name=IPV6
 
 host=gslbserv.itv.cmvideo.cn=36.155.98.21;cache.ott.ystenlive.itv.cmvideo.cn=base-v4v6-cm-miguvideo.e.cdn.chinamobile.com;cache.ott.bestlive.itv.cmvideo.cn=base-v4v6-cm-miguvideo.e.cdn.chinamobile.com;cache.ott.wasulive.itv.cmvideo.cn=base-v4v6-cm-miguvideo.e.cdn.chinamobile.com;cache.ott.fifalive.itv.cmvideo.cn=base-v4v6-cm-miguvideo.e.cdn.chinamobile.com;cache.ott.hnbblive.itv.cmvideo.cn=base-v4v6-cm-miguvideo.e.cdn.chinamobile.com
 
