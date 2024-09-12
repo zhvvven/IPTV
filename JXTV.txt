@@ -216,3 +216,5 @@ host=gslbserv.itv.cmvideo.cn=36.155.98.21;cache.ott.ystenlive.itv.cmvideo.cn=bas
 江西经济生活,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://mirror.ghproxy.com/raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi2.png$tvg=江西经济生活
 江西新闻,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://mirror.ghproxy.com/raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi6.png$tvg=江西新闻
 江西少儿,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://mirror.ghproxy.com/raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi5.png$tvg=江西少儿
+
+江西都市,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8$name＝测试
