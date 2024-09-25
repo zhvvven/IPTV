@@ -27,3 +27,11 @@ http://live.iill.top/huya.php?id=11774959
 http://live.iill.top/huya.php?id=13303478
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342412&huya&logo" group-title="•虎牙「影视」",周星驰
 http://live.iill.top/huya.php?id=11342412
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/19863777&huya&logo" group-title="•虎牙「影视」",止戈电影
+http://live.iill.top/huya.php?id=19863777
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/16028551&huya&logo" group-title="•虎牙「影视」",扁豆看电影
+http://live.iill.top/huya.php?id=16028551
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/24766781&huya&logo" group-title="•虎牙「影视」",荒野求生影视
+http://live.iill.top/huya.php?id=24766781
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/28556708&huya&logo" group-title="•虎牙「影视」",荒野求生影探
+http://live.iill.top/huya.php?id=28556708
