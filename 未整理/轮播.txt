@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/6566658&douyu&logo" group-title="•斗鱼「影视」",爱情公寓
+http://live.iill.top/douyu.php?id=6566658
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/4258555&douyu&logo" group-title="•斗鱼「影视」",小片片说大片
+http://live.iill.top/douyu.php?id=4258555
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/8317926&douyu&logo" group-title="•斗鱼「影视」",刘老师说电影
+http://live.iill.top/douyu.php?id=8317926
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/2758565&douyu&logo" group-title="•斗鱼「影视」",牛叔说电影
+http://live.iill.top/douyu.php?id=2758565
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/955918&douyu&logo" group-title="•斗鱼「影视」",火龙果说电影
+http://live.iill.top/douyu.php?id=955918
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/9419771&douyu&logo" group-title="•斗鱼「影视」",史君说剧
+http://live.iill.top/douyu.php?id=9419771
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/610972&douyu&logo" group-title="•斗鱼「影视」",都市夜魔人老王
+http://live.iill.top/douyu.php?id=610972
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/7796193&douyu&logo" group-title="•斗鱼「影视」",1900影剧室
+http://live.iill.top/douyu.php?id=7796193
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1109218&douyu&logo" group-title="•斗鱼「影视」",大漠叔叔
+http://live.iill.top/douyu.php?id=1109218
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/9738854&douyu&logo" group-title="•斗鱼「影视」",小约翰可汗
+http://live.iill.top/douyu.php?id=9738854
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/3508304&douyu&logo" group-title="•斗鱼「影视」",科幻Fans布玛
+http://live.iill.top/douyu.php?id=3508304
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11774959&huya&logo" group-title="•虎牙「影视」",电影最TOP
+http://live.iill.top/huya.php?id=11774959
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/13303478&huya&logo" group-title="•虎牙「影视」",阿斗归来了
+http://live.iill.top/huya.php?id=13303478
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342412&huya&logo" group-title="•虎牙「影视」",周星驰
+http://live.iill.top/huya.php?id=11342412
