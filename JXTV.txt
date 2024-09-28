@@ -326,3 +326,7 @@ host=gslbserv.itv.cmvideo.cn=36.155.98.21;cache.ott.ystenlive.itv.cmvideo.cn=bas
 扁豆看电影,http://live.iill.top/huya.php?id=16028551$logo=https://tv.iill.top/LOGO/16028551&huya&logo
 荒野求生影视,http://live.iill.top/huya.php?id=24766781$logo=https://tv.iill.top/LOGO/24766781&huya&logo
 荒野求生影探,http://live.iill.top/huya.php?id=28556708$logo=https://tv.iill.top/LOGO/28556708&huya&logo
+
+动画轮播,#genre#
+海绵宝宝,http://live.iill.top/huya.php?id=11352919$logo=https://tv.iill.top/LOGO/11352919&huya&logo
+熊出没,http://live.iill.top/huya.php?id=30221406$logo=https://tv.iill.top/LOGO/30221406&huya&logo
