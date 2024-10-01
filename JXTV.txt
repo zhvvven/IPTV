@@ -340,8 +340,8 @@ host=gslbserv.itv.cmvideo.cn=36.155.98.21;cache.ott.ystenlive.itv.cmvideo.cn=bas
 超级电影,http://gslbserv.itv.cmvideo.cn/1000000003000012426/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3$name=8M1080_易视腾
 超级体育,http://gslbserv.itv.cmvideo.cn/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3$name=8M1080_易视腾
 超级综艺,http://gslbserv.itv.cmvideo.cn/1000000006000268002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=3$name=8M1080_易视腾
-东北剧场,http://gslbserv.itv.cmvideo.cn/1000000005000266013/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=3$name=4M1080_易视腾
-动作电影,http://gslbserv.itv.cmvideo.cn/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3$name=4M1080_易视腾
+东北热剧,http://gslbserv.itv.cmvideo.cn/1000000005000266013/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=3$name=4M1080_易视腾
+动作电影,http://gslbserv.itv.cmvideo.cn/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3$name=4M1080_易视腾$logo=https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV03.png$tvg=newtv动作电影
 欢乐剧场,http://gslbserv.itv.cmvideo.cn/1000000005000266012/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=3$name=4M1080_易视腾
 家庭剧场,http://gslbserv.itv.cmvideo.cn/1000000004000008284/1.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3$name=4M1080_易视腾
 金牌综艺,http://gslbserv.itv.cmvideo.cn/1000000004000026167/1.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3$name=4M1080_易视腾
@@ -350,15 +350,15 @@ host=gslbserv.itv.cmvideo.cn=36.155.98.21;cache.ott.ystenlive.itv.cmvideo.cn=bas
 精品纪录,http://gslbserv.itv.cmvideo.cn/1000000004000013730/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3$name=4M1080_易视腾
 精品萌宠,http://gslbserv.itv.cmvideo.cn/1000000006000032328/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=3$name=4M1080_易视腾
 精品体育,http://gslbserv.itv.cmvideo.cn/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3$name=4M1080_易视腾
-精品综合,http://gslbserv.itv.cmvideo.cn/1000000004000019008/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3$name=4M1080_易视腾
-魅力潇湘,http://gslbserv.itv.cmvideo.cn/1000000001000006197/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3$name=4M1080_易视腾
-炫舞未来,http://gslbserv.itv.cmvideo.cn/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3$name=4M1080_易视腾
+精品综合,http://gslbserv.itv.cmvideo.cn/1000000004000019008/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3$name=4M1080_易视腾$tvg=newtv精品综合
+魅力潇湘,http://gslbserv.itv.cmvideo.cn/1000000001000006197/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3$name=4M1080_易视腾$logo=https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV34.png$tvg=newtv魅力潇湘
+炫舞未来,http://gslbserv.itv.cmvideo.cn/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3$name=4M1080_易视腾$logo=https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV16.png$tvg=newtv炫舞未来
 怡伴健康,http://gslbserv.itv.cmvideo.cn/1000000005000266011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=3$name=4M1080_易视腾
 
 黑莓电影,http://gslbserv.itv.cmvideo.cn/2000000003000000001/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=3$name=4M1080_湖南bblive
 黑莓动画,http://gslbserv.itv.cmvideo.cn/2000000003000000002/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000002&livemode=1&stbId=3$name=4M1080_湖南bblive
 哒啵电竞,http://gslbserv.itv.cmvideo.cn/2000000003000000066/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000066&livemode=1&stbId=3$name=4M1080_湖南bblive
-爱情喜剧,http://gslbserv.itv.cmvideo.cn/2000000003000000010/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000010&livemode=1&stbId=3$name=4M1080_湖南bblive
+爱情喜剧,http://gslbserv.itv.cmvideo.cn/2000000003000000010/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000010&livemode=1&stbId=3$name=4M1080_湖南bblive$logo=https://gitee.com/Black_crow/epglogo/raw/master/NewTV/NewTV17.png$tvg=newtv爱情喜剧
 超级电视剧,http://gslbserv.itv.cmvideo.cn/2000000003000000032/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000032&livemode=1&stbId=3$name=4M1080_湖南bblive
 超级电影,http://gslbserv.itv.cmvideo.cn/2000000003000000031/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000031&livemode=1&stbId=3$name=4M1080_湖南bblive
 超级体育,http://gslbserv.itv.cmvideo.cn/2000000003000000030/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000030&livemode=1&stbId=3$name=4M1080_湖南bblive
@@ -372,7 +372,7 @@ host=gslbserv.itv.cmvideo.cn=36.155.98.21;cache.ott.ystenlive.itv.cmvideo.cn=bas
 金牌综艺,http://gslbserv.itv.cmvideo.cn/2000000003000000005/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000005&livemode=1&stbId=3$name=4M1080_湖南bblive
 惊悚悬疑,http://gslbserv.itv.cmvideo.cn/2000000003000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000015&livemode=1&stbId=3$name=4M1080_湖南bblive
 精品大剧,http://gslbserv.itv.cmvideo.cn/2000000003000000020/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000020&livemode=1&stbId=3$name=4M1080_湖南bblive
-精品记录,http://gslbserv.itv.cmvideo.cn/2000000003000000019/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000019&livemode=1&stbId=3$name=4M1080_湖南bblive
+精品纪录,http://gslbserv.itv.cmvideo.cn/2000000003000000019/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000019&livemode=1&stbId=3$name=4M1080_湖南bblive
 精品萌宠,http://gslbserv.itv.cmvideo.cn/2000000003000000067/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3$name=4M1080_湖南bblive
 精品体育,http://gslbserv.itv.cmvideo.cn/2000000003000000021/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000021&livemode=1&stbId=3$name=4M1080_湖南bblive
 精品综合,http://gslbserv.itv.cmvideo.cn/2000000003000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000008&livemode=1&stbId=3$name=4M1080_湖南bblive
