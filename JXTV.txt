@@ -352,7 +352,6 @@ host=gslbserv.itv.cmvideo.cn=36.155.98.21;cache.ott.ystenlive.itv.cmvideo.cn=bas
 精品体育,http://gslbserv.itv.cmvideo.cn/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3$name=4M1080_易视腾
 精品综合,http://gslbserv.itv.cmvideo.cn/1000000004000019008/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3$name=4M1080_易视腾
 魅力潇湘,http://gslbserv.itv.cmvideo.cn/1000000001000006197/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3$name=4M1080_易视腾
-魅力潇湘,http://gslbserv.itv.cmvideo.cn/1000000005000266014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266014&livemode=1&stbId=3$name=4M1080_易视腾
 炫舞未来,http://gslbserv.itv.cmvideo.cn/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3$name=4M1080_易视腾
 怡伴健康,http://gslbserv.itv.cmvideo.cn/1000000005000266011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=3$name=4M1080_易视腾
 
