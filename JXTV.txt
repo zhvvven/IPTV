@@ -318,6 +318,7 @@ NewTV频道,#genre#
 金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$name=IPV6
 
 斗鱼轮播,#genre#
+Decoder=3
 爱情公寓,http://live.iill.top/douyu.php?id=6566658$logo=https://tv.iill.top/LOGO/6566658&douyu&logo
 小片片说大片,http://live.iill.top/douyu.php?id=4258555$logo=https://tv.iill.top/LOGO/4258555&douyu&logo
 刘老师说电影,http://live.iill.top/douyu.php?id=8317926$logo=https://tv.iill.top/LOGO/8317926&douyu&logo
@@ -331,6 +332,7 @@ NewTV频道,#genre#
 科幻Fans布玛,http://live.iill.top/douyu.php?id=3508304$logo=https://tv.iill.top/LOGO/3508304&douyu&logo
 
 虎牙轮播,#genre#
+Decoder=3
 电影最TOP,http://live.iill.top/huya.php?id=11774959$logo=https://tv.iill.top/LOGO/11774959&huya&logo
 阿斗归来了,http://live.iill.top/huya.php?id=13303478$logo=https://tv.iill.top/LOGO/13303478&huya&logo
 周星驰,http://live.iill.top/huya.php?id=11342412$logo=https://tv.iill.top/LOGO/11342412&huya&logo
@@ -340,5 +342,6 @@ NewTV频道,#genre#
 荒野求生影探,http://live.iill.top/huya.php?id=28556708$logo=https://tv.iill.top/LOGO/28556708&huya&logo
 
 动画轮播,#genre#
+Decoder=3
 海绵宝宝,http://live.iill.top/huya.php?id=11352919$logo=https://tv.iill.top/LOGO/11352919&huya&logo
 熊出没,http://live.iill.top/huya.php?id=30221406$logo=https://tv.iill.top/LOGO/30221406&huya&logo
