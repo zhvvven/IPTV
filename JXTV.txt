@@ -95,6 +95,7 @@ CCTV-14 少儿,http://gslbserv.itv.cmvideo.cn/1000000001000008170/1.m3u8?channel
 CCTV-15 音乐,http://gslbserv.itv.cmvideo.cn/1000000005000265014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3$name=5.5M1080HEVC_易视腾
 CCTV-16 奥林匹克,http://gslbserv.itv.cmvideo.cn/1000000006000233002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3$name=8M1080_易视腾
 CCTV-17 农业农村,http://gslbserv.itv.cmvideo.cn/1000000006000268004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=3$name=8M1080_易视腾
+纯享4K,http://gslbserv.itv.cmvideo.cn/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3$name=UHD_20M2160_易视腾
 
 CCTV-1 综合,http://gslbserv.itv.cmvideo.cn/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3$name=7.5M1080_百视通
 CCTV-2 财经,http://gslbserv.itv.cmvideo.cn/5000000011000031101/1.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3$name=6.8M1080_百视通
