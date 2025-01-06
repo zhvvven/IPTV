@@ -1,4 +1,0 @@
-央视频道,#genre#
-CCTV1 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226247/index.m3u8?fmt=ts2hls
-CCTV1 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
-CCTV1 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226247/index.m3u8?fmt=ts2hls
