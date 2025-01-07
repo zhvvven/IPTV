@@ -156,7 +156,13 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="江西经济生活" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi2.png" group-title="江西频道",江西经济生活
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西公共农业" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi4.png" group-title="江西频道",江西公共农业
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西影视旅游" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi3.png" group-title="江西频道",江西影视旅游
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="江西新闻" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi6.png" group-title="江西频道",江西新闻
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi5.png" group-title="江西频道",江西少儿
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西教育" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi6.png" group-title="江西频道",江西教育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
