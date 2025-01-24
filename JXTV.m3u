@@ -74,7 +74,7 @@ http://192.168.0.101:35455/gaoma/cctv17.m3u8
 http://192.168.0.101:35455/rptv/G_CCTV-4K-HD.m3u8?license=gitv
 http://192.168.0.101:35455/gaoma/cctv4k_10m.m3u8
 http://192.168.0.101:35455/gaoma/cctv4k.m3u8
-#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
 http://192.168.0.101:35455/gaoma/cctv8k_36m.m3u8
 http://192.168.0.101:35455/gaoma/cctv8k_120m.m3u8
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://live.fanmingming.cn/tv/纯享4K.png" group-title="卫视频道",纯享4K
