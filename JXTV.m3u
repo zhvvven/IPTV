@@ -67,6 +67,10 @@ http://192.168.0.101:35455/itv/5000000011000031109.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m3u8?fmt=ts2hls
 http://192.168.0.101:35455/gaoma/cctv16.m3u8
+http://192.168.0.101/rptv/G_CCTV-16-4K.m3u8?license=gitv
+http://192.168.0.101/itv/5000000008000023254.m3u8?cdn=bestzb
+http://192.168.0.101/gaoma/cctv4k16_10m.m3u8
+http://192.168.0.101/gaoma/cctv4k16.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://39.135.140.104:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts2hls
 http://192.168.0.101:35455/gaoma/cctv17.m3u8
