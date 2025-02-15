@@ -1,3 +1,3 @@
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhvvven/IPTV/main/JXTV.txt
+https://gh-proxy.ygxz.in/https://raw.githubusercontent.com/zhvvven/IPTV/main/JXTV.txt
 
-https://mirror.ghproxy.com/https://github.com/fanmingming/live/raw/main/e.xml
+https://gh-proxy.ygxz.in/https://github.com/fanmingming/live/raw/main/e.xml
