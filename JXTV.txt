@@ -58,13 +58,13 @@ Decoder=2
 
 Decoder=2
 
-江西都市,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi1.png$tvg=江西都市
-江西经济生活,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi2.png$tvg=江西经济生活
-江西公共农业,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi4.png$tvg=江西公共农业
-江西影视旅游,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi3.png$tvg=江西影视旅游
+江西都市,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi1.png$tvg=江西都市
+江西经济生活,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi2.png$tvg=江西经济生活
+江西公共农业,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi4.png$tvg=江西公共农业
+江西影视旅游,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi3.png$tvg=江西影视旅游
 江西教育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江西教育.png$tvg=江西教育
-江西新闻,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi6.png$tvg=江西新闻
-江西少儿,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi5.png$tvg=江西少儿
+江西新闻,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi6.png$tvg=江西新闻
+江西少儿,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls$name=IPV4$logo=https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangxi5.png$tvg=江西少儿
 
 NewTV频道,#genre#
 
